@@ -249,7 +249,7 @@ The deployment of the project is not yet available.
 
 You can contact us by email. You can find all the information regarding our contacts in the [:busts_in_silhouette: Team Members](#busts_in_silhouette-team-members) section.
 
-Project Link: [https://github.com/itsPeetah/polimi-mdproject-2024-teachme][project-link]
+Project Link: [https://github.com/paolopertino/TeachME][project-link]
 
 ## :gem: Acknowledgements
 All the animated icons used in this repository are provided by <a href="https://lordicon.com/">Lordicon.com</a>.
