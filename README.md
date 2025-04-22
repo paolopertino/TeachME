@@ -10,34 +10,34 @@
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/itsPeetah/polimi-mdproject-2024-teachme/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/itsPeetah/polimi-mdproject-2024-teachme" alt="Contributors" />
+  <a href="https://github.com/paolopertino/TeachME/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/paolopertino/TeachME" alt="Contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/itsPeetah/polimi-mdproject-2024-teachme" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/paolopertino/TeachME" alt="last update" />
   </a>
-  <a href="https://github.com/itsPeetah/polimi-mdproject-2024-teachme/network/members">
-    <img src="https://img.shields.io/github/forks/itsPeetah/polimi-mdproject-2024-teachme" alt="forks" />
+  <a href="https://github.com/paolopertino/TeachME/network/members">
+    <img src="https://img.shields.io/github/forks/paolopertino/TeachME" alt="forks" />
   </a>
-  <a href="https://github.com/itsPeetah/polimi-mdproject-2024-teachme/stargazers">
-    <img src="https://img.shields.io/github/stars/itsPeetah/polimi-mdproject-2024-teachme" alt="stars" />
+  <a href="https://github.com/paolopertino/TeachME/stargazers">
+    <img src="https://img.shields.io/github/stars/paolopertino/TeachME" alt="stars" />
   </a>
-  <a href="https://github.com/itsPeetah/polimi-mdproject-2024-teachme/issues/">
-    <img src="https://img.shields.io/github/issues/itsPeetah/polimi-mdproject-2024-teachme" alt="open issues" />
+  <a href="https://github.com/paolopertino/TeachME/issues/">
+    <img src="https://img.shields.io/github/issues/paolopertino/TeachME" alt="open issues" />
   </a>
-  <a href="https://github.com/itsPeetah/polimi-mdproject-2024-teachme/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/itsPeetah/polimi-mdproject-2024-teachme.svg" alt="license" />
+  <a href="https://github.com/paolopertino/TeachME/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/paolopertino/TeachME.svg" alt="license" />
   </a>
 </p>
    
 <h4>
-    <a href="https://github.com/itsPeetah/polimi-mdproject-2024-teachme/">View Demo</a>
+    <a href="https://github.com/paolopertino/TeachME">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/itsPeetah/polimi-mdproject-2024-teachme/wiki">Documentation</a> <!-- TODO: Update with deliverables folder when ready -->
+    <a href="https://github.com/paolopertino/TeachME/wiki">Documentation</a> <!-- TODO: Update with deliverables folder when ready -->
   <span> · </span>
-    <a href="https://github.com/itsPeetah/polimi-mdproject-2024-teachme/wiki">Wiki</a>
+    <a href="https://github.com/paolopertino/TeachME/wiki">Wiki</a>
   <span> · </span>
-    <a href="https://github.com/itsPeetah/polimi-mdproject-2024-teachme/issues">Request Feature / Report bug</a>
+    <a href="https://github.com/paolopertino/TeachME/issues">Request Feature / Report bug</a>
   </h4>
 </div>
 
