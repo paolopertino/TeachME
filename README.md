@@ -256,24 +256,24 @@ All the animated icons used in this repository are provided by <a href="https://
 
 <!-- Links -->
 [frontend-installation-logo]: ./assets/frontend_icon.gif
-[frontend-installation-link]: https://github.com/itsPeetah/polimi-mdproject-2024-teachme/wiki/Installation#front-end
+[frontend-installation-link]: https://github.com/paolopertino/TeachME/wiki/Installation#front-end
 [backend-installation-logo]: ./assets/python_icon.gif
-[backend-installation-link]: https://github.com/itsPeetah/polimi-mdproject-2024-teachme/wiki/Installation#back-end
+[backend-installation-link]: https://github.com/paolopertino/TeachME/wiki/Installation#back-end
 [running-logo]: ./assets/run_icon.gif
-[running-link]: https://github.com/itsPeetah/polimi-mdproject-2024-teachme/wiki/Running
+[running-link]: https://github.com/paolopertino/TeachME/wiki/Running
 [report-logo]: ./assets/report_logo.gif
-[report-link]: https://github.com/itsPeetah/polimi-mdproject-2024-teachme/tree/main/docs
+[report-link]: https://github.com/paolopertino/TeachME/tree/main/docs
 [wiki-logo]: ./assets/wiki_logo.gif
-[wiki-link]: https://github.com/itsPeetah/polimi-mdproject-2024-teachme/wiki/
+[wiki-link]: https://github.com/paolopertino/TeachME/wiki/
 [code-logo]: ./assets/code_logo.gif
-[code-link]: https://github.com/itsPeetah/polimi-mdproject-2024-teachme
+[code-link]: https://github.com/paolopertino/TeachME
 [github-logo]: ./assets/github_logo.png
 [paolo-github]: https://github.com/paolopertino
 [andrea-github]: https://github.com/andrea-federici
 [pietro-github]: https://github.com/itsPeetah
 [mahdi-github]: https://github.com/MahdiValadan
 [alireza-github]: https://github.com/yahyanejadalre
-[project-link]: https://github.com/itsPeetah/polimi-mdproject-2024-teachme
+[project-link]: https://github.com/paolopertino/TeachME
 [next-link]: https://nextjs.org/docs/getting-started/installation#automatic-installation
 [pip-link]: https://pip.pypa.io/en/stable/installation/
 [python-link]: https://www.python.org/downloads/
@@ -281,4 +281,4 @@ All the animated icons used in this repository are provided by <a href="https://
 [npm-link]: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
 [docker-link]: https://docs.docker.com/get-docker/
 [docker-compose-link]: https://docs.docker.com/compose/install/
-[docker-installation-link]: https://github.com/itsPeetah/polimi-mdproject-2024-teachme/wiki/Installation#using-docker
+[docker-installation-link]: https://github.com/paolopertino/TeachME/wiki/Installation#using-docker
